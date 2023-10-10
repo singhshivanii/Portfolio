@@ -1,0 +1,82 @@
+[   
+    {
+      "name": "Lagunitas",
+      "desc": "Designed the UI of lagunitas website using HTML,CSS and JS usign gsap transitions",
+      "image": "lagunitas",
+      "category": "basicweb",
+      "links": {
+        "view":"https://singhshivanii.github.io/Lagunitas/",
+        "code": "https://github.com/singhshivanii/Lagunitas"
+      },
+      "icon" : "fa fa-desktop"
+    },
+    {
+        "name": "Bloggex",
+        "desc": "Built a Completely Responsive Blog Website that Shows Blogs, User can create blogs,read blogs and update blogs.User can also save blog for future reading.used Node.js|MongoDb|ExpressJs",
+        "image": "blogex",
+        "category": "basicweb",
+        "links": {
+          "view": "#",
+          "code": "#"
+        },
+        "icon" : "fa fa-desktop"
+      },
+    {
+      "name": "getTala",
+      "desc": "Redesigned the getTala website using basic HTML,CSS and JS using gsap transitions",
+      "image": "tala",
+      "category": "basicweb",
+      "links": {
+        "view": "https://github.com/singhshivanii/getTala",
+        "code": "https://singhshivanii.github.io/getTala/"
+      },
+      "icon" : "fa fa-desktop"
+    },
+    {
+      "name": "Space-x ",
+      "desc": "Mimicked the famous space x website using html css and js",
+      "image": "spacex",
+      "category": "basicweb",
+      "links": {
+        "view": "https://github.com/singhshivanii/spaceX-Redesign",
+        "code": " https://singhshivanii.github.io/spaceX-Redesign/"
+      },
+      "icon" : "fa fa-desktop"
+    },
+    {
+      "name": "Path-Finding-Visualizer",
+      "desc": "One can play around and visualize the difference in efficiency of different path finding algo on bigger and more complicated scale.made using html,css and js",
+      "image": "pfv",
+      "category": "basicweb",
+      "links": {
+        "view": "https://github.com/singhshivanii/path-Finding-visualizer",
+        "code": " https://singhshivanii.github.io/path-Finding-visualizer/"
+      },
+      "icon" : "fa fa-desktop"
+    },
+    {
+      "name": "Calculator",
+      "desc": "Basic claculator done all task like addition subtraction etc.",
+      "image": "calc",
+      "category": "basicweb",
+      "links": {
+        "code": "https://github.com/singhshivanii/calculator"
+      },
+      "icon" : "fa fa-desktop"
+    },
+    {
+      "name": "Hulu Website",
+      "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB.",
+      "image": "hulu",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      },
+      "icon" : "fa fa-desktop"
+    }
+   
+    
+    
+  ]
+  
